@@ -14,25 +14,39 @@ Platforms: Jupyter Notebook, Visual Studio Code, R Studio
 
 Frameworks: Pandas, NumPy, Scikit Learn, Matplotlib, Pytorch, SPARK SQL 
 
-Tools: Excel, PowerPoint, Tableau, MySQL, Power BI, GIT
+Tools: Excel, PowerPoint, Tableau, Power BI, MySQL, SQL Server 2019, GIT
 
 Cloud Computing: AWS EC2
 
 # Professional Experience:
 
+## Coders Data (01/2025 - Present)
+
+• Use Python and SQL to analyze large datasets and uncover valuable insights.
+
+• Build ETL pipelines with Python, SQL, and AWS EC2 to automate data processing.
+
+• Design and manage relational databases, ensuring data quality and performance optimization.
+
+• Work with structured and unstructured data from various sources, maintaining data integrity.
+
+• Develop predictive models using Scikit-Learn and optimize performance through feature engineering and hyperparameter tuning.
+
+• Manage large-scale data storage and processing on AWS EC2 for cloud-based solutions.
+
 ## Associate Data Analyst (03/2020 - 07/2022)
 
-  • Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
+• Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
 
-  • Managed and maintained datasets related to student admissions, academic performance, and departmental reports, ensuring data accuracy and consistency.
+• Managed and maintained datasets related to student admissions, academic performance, and departmental reports, ensuring data accuracy and consistency.
 
-  • Developed and automated processes for tracking and reporting student grades, utilizing SQL and advanced Excel functions to generate data-driven reports.
+• Developed and automated processes for tracking and reporting student grades, utilizing SQL and advanced Excel functions to generate data-driven reports.
 
-  • Optimized SQL queries on SQL server.
+• Optimized SQL queries on SQL server.
 
-  • Designed reports and presentations for management using Excel and PowerPoint, providing insights into student performance, departmental activities, and institutional growth.
+• Designed reports and presentations for management using Excel and PowerPoint, providing insights into student performance, departmental activities, and institutional growth.
 
-  • Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
+• Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
 
 ## Instructor (07/2017 - 02/2020)
 
