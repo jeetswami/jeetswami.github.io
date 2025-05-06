@@ -35,8 +35,8 @@ Cloud Computing: AWS EC2
 
 • Manage large-scale data storage and processing on AWS EC2 for cloud-based solutions.
 
-# Ananya Institute of Science (03/2020 - 07/2022)
-## Associate Data Analyst
+# Ananya Institute of Science 
+## Associate Data Analyst (03/2020 - 07/2022)
 
 • Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
 
