@@ -1,5 +1,3 @@
-# Data Analyst
-
 # Education:
 
 Master of Science | Data Science | DePaul University | Chicago | 11/2024 
