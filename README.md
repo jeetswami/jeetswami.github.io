@@ -20,6 +20,19 @@ Cloud Computing: AWS EC2
 
 # Professional Experience:
 
+# StrategIQ Commerce (03/2025 - Present)
+## Parcel Auditor Analyst
+
+• Audited and analyzed logistics data using Excel and SQL to ensure accuracy and improve delivery performance.
+
+• Identified and resolved discrepancies through data validation and trend analysis using Power BI dashboards.
+
+• Collaborated with cross-functional teams to investigate data issues and streamline reporting workflows.
+
+• Generated audit reports and performance insights using Excel and Power BI to support operational decisions.
+
+• Recommended process improvements based on data-driven findings and SQL-based data queries.
+
 # Coders Data (01/2025 - Present)
 ## Data Analyst
 
@@ -49,14 +62,6 @@ Cloud Computing: AWS EC2
 • Designed reports and presentations for management using Excel and PowerPoint, providing insights into student performance, departmental activities, and institutional growth.
 
 • Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
-
-## Instructor (07/2017 - 02/2020)
-
-• Delivered lectures in physics and applied data analysis techniques to enhance student comprehension of complex topics.
-
-• Collaborated with faculty to integrate data insights into curriculum design, student engagement strategies, and resource allocation.
-
-• Assisted in preparing reports on trend analysis and predictive insights for improving academic and administrative processes.
 
 # Projects:
 
