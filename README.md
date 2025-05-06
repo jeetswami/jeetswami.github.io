@@ -21,6 +21,7 @@ Cloud Computing: AWS EC2
 # Professional Experience:
 
 ## Coders Data (01/2025 - Present)
+# Data Analyst
 
 • Use Python and SQL to analyze large datasets and uncover valuable insights.
 
@@ -34,7 +35,8 @@ Cloud Computing: AWS EC2
 
 • Manage large-scale data storage and processing on AWS EC2 for cloud-based solutions.
 
-## Associate Data Analyst (03/2020 - 07/2022)
+## Ananya Institute of Science (03/2020 - 07/2022)
+# Associate Data Analyst
 
 • Analyzed academic performance data to tailor teaching strategies, resulting in improved student outcomes.
 
@@ -48,7 +50,7 @@ Cloud Computing: AWS EC2
 
 • Redesigned Tableau dashboards to enhance data visualization, allowing stakeholders to track key academic metrics more effectively.
 
-## Instructor (07/2017 - 02/2020)
+# Instructor (07/2017 - 02/2020)
 
 • Delivered lectures in physics and applied data analysis techniques to enhance student comprehension of complex topics.
 
